@@ -1,6 +1,5 @@
 fastText/
 fastText_multilingual/
-graphics/
 tatoeba_lg/
 tatoeba_sm/
 *.pickle

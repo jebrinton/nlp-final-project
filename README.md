@@ -1,0 +1,5 @@
+![1.png](report/ensayo-1.png)
+![2.png](report/ensayo-2.png)
+![3.png](report/ensayo-3.png)
+![4.png](report/ensayo-4.png)
+![5.png](report/ensayo-5.png)
