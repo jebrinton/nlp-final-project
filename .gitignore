@@ -1,0 +1,9 @@
+fastText/
+fastText_multilingual/
+graphics/
+tatoeba_lg/
+tatoeba_sm/
+*.pickle
+*.csv
+*.bin*
+.DS_Store

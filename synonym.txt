@@ -1,0 +1,1 @@
+A synonym is merely a word that may replace the original word without changing the sentence vector by too much.
